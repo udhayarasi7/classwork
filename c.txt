@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is AC6D-2B90
+
+ Directory of D:\classwork\classwork
+
+09-02-2026  14:54    <DIR>          .
+09-02-2026  14:54    <DIR>          ..
+09-02-2026  14:54                 0 c.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  153,127,997,440 bytes free
