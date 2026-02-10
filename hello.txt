@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 வணக்கம் உதயா
+=======
+hi this is tamil and this is for tamil notepad
+>>>>>>> tamil
